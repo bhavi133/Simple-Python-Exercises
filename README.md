@@ -1,1 +1,1 @@
-# Simple-Python-Exercises-Solution
+# Simple-Python-Exercises
